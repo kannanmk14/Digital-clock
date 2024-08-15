@@ -1,0 +1,14 @@
+
+body{
+    background-color:black;
+}
+div{
+    position:relative;
+    font-size:100px;
+    letter-spacing: 10px;
+    height:95vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+}
